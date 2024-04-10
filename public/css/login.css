@@ -1,0 +1,64 @@
+.head{
+    color: #6b7280;
+    font-size: 30px;
+    margin-bottom: 20px;
+    align-items: center;
+}
+
+.mail{
+    color: cadetblue;
+}
+.pw{
+    color: cadetblue;
+}
+.login{
+    color: #6b7280;
+    opacity: 0.5;
+}
+.w-full{
+    background-color: rgba(84, 124, 84, 0.13);
+    opacity: 0.5;
+}
+input{
+    background-color: rgba(58, 61, 60, 0.13) !important;
+    opacity: 0.5;
+}
+.button{
+    background-color: rgba(17, 23, 17, 0.11) !important;
+    border-style: none !important;
+}
+label{
+    color: #6b7280!important;
+}
+.white{
+    color: #6b7280!important;
+
+}
+.white-text{
+    color: #6b7280!important;
+    background-color: rgba(17, 23, 17, 0.11) !important;
+}
+button{
+    border-style: none!important;
+}
+body{
+
+    background-color: #202120 !important;
+}
+.bg-gray-100{
+    background-color: rgba(84, 124, 84, 0.03) !important;
+}
+.log{
+    color: #6b7280 !important;
+}
+.link{
+    color: #6b7280 !important;
+}
+.link1{
+    color: #6b7280 !important;
+
+}
+.last{
+    color: #6b7280 !important;
+}
+

@@ -1,0 +1,22 @@
+body{
+
+    background-color: #202120 !important;
+}
+.form{
+    color: rgba(245, 245, 245, 0.29) !important;
+    background-color: rgba(76, 76, 80, 0.06) !important;
+}
+.head{
+    color: whitesmoke !important;
+}
+.black{
+    color: rgba(245, 245, 245, 0.66) !important;
+}
+.btaobtn{
+    color: whitesmoke!important;
+    background-color: rgba(245, 245, 245, 0.12);
+    border-style: none !important;
+}
+.last{
+    color: rgba(245, 245, 245, 0.48);
+}

@@ -1,0 +1,12 @@
+.frm{
+    background-color: rgba(0, 0, 0, 0.63) !important;
+}
+input{
+    background-color: rgba(128, 128, 128, 0.64)!important;
+}
+.btn1 button{
+  background-color: gray!important;
+}
+label{
+    color: whitesmoke;
+}
